@@ -1,0 +1,21 @@
+const express = require('express');
+const translate = require('google-translate-api');
+const app = express();
+
+app.get('/api', (req, res) => {
+    translate('Ik spreek Engels', {to: 'en'}).then(rest => {
+        console.log(res`t.text);
+        //=> I speak English
+        console.log(res.from.language.iso);
+        //=> nl
+    }).catch(err => {
+        console.error(err);
+    });
+
+}
+);
+
+app.listen(5000, () => {
+    console.log('Server is running on port 5000.');
+}
+);
