@@ -74,4 +74,4 @@ Contributions are welcome! If you find any issues or want to add new features, p
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). 📄🔒
+This project is licensed under the [CC0 1.0 🌐](https://creativecommons.org/publicdomain/zero/1.0/). 📄🔒
