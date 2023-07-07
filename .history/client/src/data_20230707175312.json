@@ -1,0 +1,178 @@
+{
+    "languages": [
+        {
+            "name": "Afar",
+            "code": "aa",
+            "nativeName": "Afar",
+            "flag": "🇦🇫"
+        },
+        {
+            "name": "Abkhazian",
+            "code": "ab",
+            "nativeName": "Аҧсуа",
+            "flag": "🇦🇩"
+        },
+        {
+            "name": "Afrikaans",
+            "code": "af",
+            "nativeName": "Afrikaans",
+            "flag": "🇿🇦"
+        },
+        {
+            "name": "Akan",
+            "code": "ak",
+            "nativeName": "Akana",
+            "flag": "🇬🇭"
+        },
+        {
+            "name": "Amharic",
+            "code": "am",
+            "nativeName": "አማርኛ",
+            "flag": "🇪🇹"
+        },
+        {
+            "name": "Aragonese",
+            "code": "an",
+            "nativeName": "Aragonés",
+            "flag": "🇪🇸"
+        },
+        {
+            "name": "Arabic",
+            "code": "ar",
+            "nativeName": "العربية",
+            "flag": "🇸🇦"
+        },
+        {
+            "name": "Assamese",
+            "code": "as",
+            "nativeName": "অসমীয়া",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Avar",
+            "code": "av",
+            "nativeName": "Авар",
+            "flag": "🇷🇺"
+        },
+        {
+            "name": "Aymara",
+            "code": "ay",
+            "nativeName": "Aymar",
+            "flag": "🇧🇴"
+        },
+        {
+            "name": "Azerbaijani",
+            "code": "az",
+            "nativeName": "Azərbaycanca / آذربايجان",
+            "flag": "🇦🇿"
+        },
+        {
+            "name": "Bashkir",
+            "code": "ba",
+            "nativeName": "Башҡорт",
+            "flag": "🇷🇺"
+        },
+        {
+            "name": "Belarusian",
+            "code": "be",
+            "nativeName": "Беларуская",
+            "flag": "🇧🇾"
+        },
+        {
+            "name": "Bulgarian",
+            "code": "bg",
+            "nativeName": "Български",
+            "flag": "🇧🇬"
+        },
+        {
+            "name": "Bihari",
+            "code": "bh",
+            "nativeName": "भोजपुरी",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Bislama",
+            "code": "bi",
+            "nativeName": "Bislama",
+            "flag": "🇻🇺"
+        },
+        {
+            "name": "Bambara",
+            "code": "bm",
+            "nativeName": "Bamanankan",
+            "flag": "🇲🇱"
+        },
+        {
+            "name": "Bengali",
+            "code": "bn",
+            "nativeName": "বাংলা",
+            "flag": "🇧🇩"
+        },
+        {
+            "name": "Tibetan",
+            "code": "bo",
+            "nativeName": "བོད་ཡིག / Bod skad",
+            "flag": "🇨🇳"
+        },
+        {
+            "name": "Breton",
+            "code": "br",
+            "nativeName": "Brezhoneg",
+            "flag": "🇫🇷"
+        },
+        {
+            "name": "Bosnian",
+            "code": "bs",
+            "nativeName": "Bosanski",
+            "flag": "🇧🇦"
+        },
+        {
+            "name": "Catalan",
+            "code": "ca",
+            "nativeName": "Català",
+            "flag": "🇪🇸"
+        },
+        {
+            "name": "Chechen",
+            "code": "ce",
+            "nativeName": "Нохчийн",
+            "flag": "🇷🇺"
+        },
+        {
+            "name": "Chamorro",
+            "code": "ch",
+            "nativeName": "Chamoru",
+            "flag": "🇬🇺"
+        },
+        {
+            "name": "Corsican",
+            "code": "co",
+            "nativeName": "Corsu",
+            "flag": "🇫🇷"
+        },
+        {
+            "name": "Cree",
+            "code": "cr",
+            "nativeName": "Nehiyaw",
+            "flag": "🇨🇦"
+        },
+        {
+            "name": "Czech",
+            "code": "cs",
+            "nativeName": "Česky",
+            "flag": "🇨🇿"
+        },
+        {
+            "name": "Old Church Slavonic / Old Bulgarian",
+            "code": "cu",
+            "nativeName": "словѣньскъ / slověnĭskŭ",
+            "flag": ""
+        },
+        {
+            "name": "Chuvash",
+            "code": "cv",
+            "nativeName": "Чăваш",
+            "flag": "🇷🇺"
+        }
+    ]
+}
